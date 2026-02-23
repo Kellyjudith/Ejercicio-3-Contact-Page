@@ -23,8 +23,8 @@ La aplicación de estilos CSS para lograr un diseño profesional.
 ---
 
 ## 🔗 Enlace al proyecto
-Repositorio en GitHub: [Pega aquí tu enlace]  
-Deploy: [LINK]()
+Repositorio en GitHub: [https://github.com/Kellyjudith/Ejercicio-3-Contact-Page]  
+Deploy: [LINK](https://kellyjudith.github.io/Ejercicio-3-Contact-Page/)
 ---
 
 ## 📝 Reflexión
